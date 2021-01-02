@@ -1,64 +1,63 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Elias Weinraub",
+    "description":"I am a frontend engineer, working primarily with React and Javsacript to develop beautiful web apps",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Born and raised in Brooklyn, NY. Entirely self-taught developer. After 2 years at the CBS Evening News, I left NY to spend a few years working in Spain. Freshly back in the US of A, and looking for my next opportunity.",
+    "contactmessage":"Get in touch!",
+    "email": "eweinraub16@gmail.com",
+    "phone": "347-601-7747",
+    "github":"https://github.com/ew616",
+    "project":"",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"395 4th St.",
+      "city":"Brooklyn",
+      "state":"New York",
+      "zip": "11215"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/elias.weinraub",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/EliasWeinraub",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/elias-weinraub-b0470774/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/elias395/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ew616",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here's a bit more about me",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Washington University in St. Louis",
+        "degree":"Bachelors of Science in Philosophy-Neuroscience-Psychology, Anthropology, and History",
+        "graduated":"May 2016",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
+        "school":"Stuyvesant High School",
         "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"June 2012"
       }
     ],
     "work":[
@@ -77,32 +76,28 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Javscript",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
         "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },
@@ -118,19 +113,13 @@
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
         "title":"Smirkspace",
