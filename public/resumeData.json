@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Elias Weinraub",
-    "description":"I am a frontend engineer, working primarily with React and Javsacript to develop beautiful web apps",
+    "description":"Brooklyn-based frontend engineer, working primarily with React and Javsacript to develop beautiful web apps. Check out some of my work below!",
     "image":"profilepic.jpg",
-    "bio":"Born and raised in Brooklyn, NY. Entirely self-taught developer. After 2 years at the CBS Evening News, I left NY to spend a few years working in Spain. Freshly back in the US of A, and looking for my next opportunity.",
+    "bio":"Born and raised in Brooklyn, NY. Former news guy, avid hiker, fluent Spanish speaker, entirely self-taught developer.",
     "contactmessage":"Get in touch!",
     "email": "eweinraub16@gmail.com",
     "phone": "347-601-7747",
@@ -46,42 +46,59 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here's a bit more about me",
+    "skillmessage":"My current tech stack is mainly comprised of:",
     "education":[
       {
         "school":"Washington University in St. Louis",
-        "degree":"Bachelors of Science in Philosophy-Neuroscience-Psychology, Anthropology, and History",
-        "graduated":"May 2016",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Bachelors of Science in Philosophy-Neuroscience-Psychology, Anthropology, and History, Graduate with Honors",
+        "graduated":"May 2016"
       },
       {
         "school":"Stuyvesant High School",
-        "degree":"What did you study 101",
+        "degree":"National Merit Scholar, Graduate with Honors",
         "graduated":"June 2012"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Instituto de Educación Secundaria",
+        "title":"Language Instructor",
+        "years":"October 2018 - June 2020",
+        "description":"Taught English to Spanish high school students. Developed a curriculum that blended grammatical instruction with conversational skill-building exercises."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Writable",
+        "title":"Product Associate",
+        "years":"July 2019 - July 2020",
+        "description":"Created and improved materials for online lesson plans for Writable, a digital platform that helps schools teach writing to students. Identified and licensed material for use in Writable’s curriculum."
+      },      
+      {
+        "company":"GoBambino",
+        "title":"Business Development Lead",
+        "years":"November 2018 - July 2019",
+        "description":"Served as sole, independent business development lead for GoBambino, an app created for parents to search and book a variety of children’s activities. Added 200+ new vendors, tripling the size of vendor base."
+      },
+      {
+        "company":"Selfmade",
+        "title":"Sales Associate",
+        "years":"June 2018 - October 2018",
+        "description":"Conducted sales for SelfMade, a company that provides digital marketing and social media management to ecommerce businesses. Consistently exceeded revenue targets with $30k+ in total sales."
+      },
+      {
+        "company":"CBS Evening News",
+        "title":"Broadcast Associate",
+        "years":"December 2016 - June 2018",
+        "description":"Pitched, produced and edited news stories for broadcast news programs and digital platforms. Managed Evening News social media accounts."
       }
     ],
     "skills":[
       {
         "name":"Javscript",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"ReactJs",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"CSS",
@@ -104,28 +121,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Loops by Emily",
+        "category":"Mock e-comm site for a friend's quarantine business",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://loopsbyemily.netlify.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Elias Magorium's Spanish Emporium",
+        "category":"A spanish web app I created to stay sharp",
         "image":"fury-fighting-gear.jpg",
         "url":""
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":""
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
     ]
   }
